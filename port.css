@@ -1,0 +1,13 @@
+ 
+.big{
+    background-color: aquamarine;
+}
+body{
+    background-image: url(.);
+}
+.logo{
+    background-image: url(kishan.jpg);
+    height: 200px;
+    width: 30%;
+}
+ 
